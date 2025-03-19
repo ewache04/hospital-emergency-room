@@ -9,7 +9,7 @@ This project analyzes **hospital emergency room (ER) visit data** to provide val
 - [Project Visuals](#project-visuals)
 - [Project Key Insights](#project-key-insights)
 - [Technologies Used](#technologies-used)
-- [Contributors](#contributors)
+- [Explore the website](#explore-the-website)
 - [License](#license)
 
 ## Project Objectives
@@ -76,22 +76,20 @@ This project analyzes **hospital emergency room (ER) visit data** to provide val
 - **Power BI**: Provides interactive dashboards and reports to visualize trends, patterns, and insights from the data.
 - **HTML, CSS, JavaScript**: Used for the presentation and web interface of the project.
 
-## Contributors
-- **Jeremiah Ochepo** – Data Analyst & Power BI Developer  
-  [GitHub](https://github.com/ewache04) | [LinkedIn](https://www.linkedin.com/in/jeremiah-o-517729122/)
+## Explore the Project Website
+You can explore the project and details here:  
+[Website](https://ewache04.github.io/hospital-emergency-room/)
+
+---
 
 ## License
 This project is licensed under the **MIT License**.
 
-## Explore the Project
-You can view the project repository and details here:  
-[Project Repository](https://github.com/ewache04/hospital-emergency-room)
-
 ---
 
-### Connect with Me
+### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jeremiah-o-517729122/)
 - [GitHub](https://github.com/ewache04)
 
 ### Designer
-**Jeremiah Ochepo**
+**Jeremiah Ochepo** 
