@@ -77,21 +77,21 @@ This project analyzes **hospital emergency room (ER) visit data** to provide val
 - **HTML, CSS, JavaScript**: Used for the presentation and web interface of the project.
 
 ## Contributors
-- **Your Name** – Data Analyst & Power BI Developer  
-  [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- **Jeremiah Ochepo** – Data Analyst & Power BI Developer  
+  [GitHub](https://github.com/ewache04) | [LinkedIn](https://www.linkedin.com/in/jeremiah-o-517729122/)
 
 ## License
 This project is licensed under the **MIT License**.
 
 ## Explore the Project
 You can view the project repository and details here:  
-[Project Repository](https://github.com/yourusername)
+[Project Repository](https://github.com/ewache04/hospital-emergency-room)
 
 ---
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [GitHub](https://github.com/your-github-profile)
+- [LinkedIn](https://www.linkedin.com/in/jeremiah-o-517729122/)
+- [GitHub](https://github.com/ewache04)
 
 ### Designer
 **Jeremiah Ochepo**
